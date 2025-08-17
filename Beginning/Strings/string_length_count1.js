@@ -1,0 +1,1 @@
+alert(prompt("Type your text:").slice(0,140));
