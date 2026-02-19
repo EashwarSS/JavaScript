@@ -10,7 +10,7 @@ typeof(true)
 typeof(eashwar)
 
 /////////
-var myGirl = "Shravika";
+var myGirl = "MYGIRL";
 alert(myGirl);
 
 /////////
